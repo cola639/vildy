@@ -13,7 +13,7 @@ import Logout from "./components/logout";
 import ProtectedRoute from "./components/common/protectedRoute";
 import auth from "./services/authService";
 import "react-toastify/dist/ReactToastify.css";
-import "./App.css";
+
 
 class App extends Component {
   state = {};
